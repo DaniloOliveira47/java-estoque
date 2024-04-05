@@ -1,0 +1,18 @@
+
+
+ALIMENTO
+Código: 34723
+Nome: whjksdhkfj
+Descrição: skdhfljs
+Quantidade: 23
+Preço: 2.0
+Data de validade: 2027-03-05
+
+ALIMENTO
+Código: 7678
+Nome: sdhfghkd
+Descrição: sdfhsjdfh
+Quantidade: 3
+Preço: 2.0
+Data de validade: 2028-05-03
+
